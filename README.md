@@ -1,7 +1,7 @@
 # Unit tests and Strings
 
 Work on a clone of this repo and push to that as often as you can.   
-Ask Daryn on Slack if you are unsure on how to do this. 
+Ask if you need any help. 
 
 
 Tasks:
