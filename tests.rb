@@ -74,7 +74,7 @@ class TestString < Minitest::Test
   end
 
   # docs: http://ruby-doc.org/core-2.2.0/String.html#method-i-strip
-  def test_convert_a_string_representation_of_a_number_to_a_real_number
+  def test_strip_white_spaces
     skip "waiting to be implemented"
     str_1 = "  word   "
     actual = str_1 # use the method in the docs above to strip off the extra spaces
